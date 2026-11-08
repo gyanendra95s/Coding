@@ -1,0 +1,9 @@
+{
+    "name":"Gyanendra",
+    "isTeacher":true,
+    "address":{
+        "city":"Dehradun",
+        "country":"India"
+    },
+    "subjects":["Python","AI/ML"]
+}
